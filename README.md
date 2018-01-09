@@ -5,4 +5,4 @@ Sierpinski gasket or  Sierpinski triangle, is a fractal  with the overall shape 
 Turtle 1.1b
 
 # Animation
-<img src=" Sierpinski-gasket/sierpinski_2.gif" align = "left" height="700" width="700" />
+![](https://github.com/sarveshj/Sierpinski-gasket/blob/master/sierpinski_2.gif)
